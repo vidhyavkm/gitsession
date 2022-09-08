@@ -10,3 +10,13 @@ what are the methods to push ur codes in github?
 3. command line method (CLI)=> high level projects like react node etc
 4. Git bash method=> full stck deve projects.
 5. vs code method.(source control)
+
+.gitignore=> if u want , not to push some files in github , u can 
+put those files inside gitignore
+
+readme=> it is a brief description of ur projecty , so that those 
+who are seeing ur project can read this and understand about ur project .
+
+description=> this is a onle line description about the project.
+
+dangerzone=> archive, visibility, transfer ownership, delete
