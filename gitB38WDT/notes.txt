@@ -1,0 +1,12 @@
+what is github?
+
+it is a universal website for all jobseekres , students, recruiters and all develeopers to access
+their code from anywhere in the world.
+
+what are the methods to push ur codes in github?
+
+1. drag and drop=> html,css,jobseekres
+2. upload files=> small no of files
+3. command line method (CLI)=> high level projects like react node etc
+4. Git bash method=> full stck deve projects.
+5. vs code method.(source control)

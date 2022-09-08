@@ -2,3 +2,9 @@ this is a github session
 git add .
 git commit -m "any msessge"
 git push
+
+open git bash after download it 
+git clone paste the link yhe git give
+git add .
+git commit 
+git push 
